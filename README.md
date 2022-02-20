@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋 Opah! Fala Grande!
+Atualmente estou estudando e desenvolvendo um projeto particular Flutter/Dart.
 
-<!--
-**ValmiDrama/ValmiDrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmidrama&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/valmidrama/github-readme-stats)
+<div style ="display: inline_block"><br>
+  <img align="center" alt="ValmiDrama CSS" heigth="30" width="50" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="ValmiDrama CSS" heigth="30" width="50" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="ValmiDrama CSS" heigth="30" width="50" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img align="center" alt="ValmiDrama CSS" heigth="30" width="50" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  </div>
+  <br>
 
-Here are some ideas to get you started:
+  <img src="https://64.media.tumblr.com/tumblr_lz23q8p4bg1r0ralmo1_r1_500.gifv" alt="Oks!"  width="250" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+  <div style ="display: inline_block"><br>
+  <a href= "https://www.linkedin.com/in/valmi-gomes-silva-junior-ab042b8a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  </div>
