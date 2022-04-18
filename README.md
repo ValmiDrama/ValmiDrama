@@ -1,8 +1,17 @@
 ## 👋 Opah! Fala Grande!
 Atualmente estou estudando e desenvolvendo um projeto particular Flutter/Dart.
+
+</div>
+   <br>
+  <a href="">
+        📚 Catálogo de estudos.
+    </a>
+    </div>
+    <br>
+</a>
+
 <br>
 
-  <img src="https://64.media.tumblr.com/tumblr_lz23q8p4bg1r0ralmo1_r1_500.gifv" alt="Oks!"  width="250" />
   
   <br>
 
@@ -10,8 +19,8 @@ Atualmente estou estudando e desenvolvendo um projeto particular Flutter/Dart.
 <div style ="display: inline_block"><br>
   <img align="center" alt="ValmiDrama CSS" heigth="30" width="50" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="ValmiDrama CSS" heigth="30" width="50" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <br>  
   <img align="center" alt="ValmiDrama CSS" heigth="30" width="50" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img align="center" alt="ValmiDrama CSS" heigth="30" width="50" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   </div>
    <br>
   <div style ="display: inline_block"><br>
