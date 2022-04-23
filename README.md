@@ -15,7 +15,7 @@ Atualmente estou estudando e desenvolvendo um projeto particular Flutter/Dart.
   
   <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmidrama&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/valmidrama/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmidrama&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/ValmiDrama/flutterEstudos)
 <div style ="display: inline_block"><br>
   <img align="center" alt="ValmiDrama CSS" heigth="30" width="50" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="ValmiDrama CSS" heigth="30" width="50" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
