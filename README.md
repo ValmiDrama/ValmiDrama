@@ -4,12 +4,18 @@ Atualmente estou estudando e desenvolvendo um projeto particular Flutter/Dart.
 </div>
    <br>
   <a href="https://github.com/ValmiDrama/flutterEstudos/">
-        📚 Catálogo de estudos.
+        📚 Catálogo de estudos Flutter/Dart.
     </a>
     </div>
     <br>
 </a>
-
+Estudando e desenvolvendo um projeto Python.
+<a href="https://github.com/ValmiDrama/EstudosPython/">
+        📚 Catálogo de estudos Python.
+    </a>
+    </div>
+    <br>
+</a>
 <br>
 
   
