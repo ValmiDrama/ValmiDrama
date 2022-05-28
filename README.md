@@ -1,7 +1,8 @@
 ## 👋 Opah! Fala Grande!
-Atualmente estou estudando e desenvolvendo um projeto particular Flutter/Dart.
 
 </div>
+Atualmente estou estudando e desenvolvendo um projeto particular Flutter/Dart.
+
    <br>
   <a href="https://github.com/ValmiDrama/flutterEstudos/">
         📚 Catálogo de estudos Flutter/Dart.
@@ -10,6 +11,7 @@ Atualmente estou estudando e desenvolvendo um projeto particular Flutter/Dart.
     <br>
 </a>
 Estudando e desenvolvendo um projeto Python.
+ <br>
 <a href="https://github.com/ValmiDrama/EstudosPython/">
         📚 Catálogo de estudos Python.
     </a>
