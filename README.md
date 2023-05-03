@@ -26,6 +26,16 @@ Estudando e desenvolvendo um projeto PostgreSQL.
     <br>
 </a>
 <br>
+ </a>
+Estudando e desenvolvendo um projeto JavaScript.
+ <br>
+<a href="https://github.com/ValmiDrama/JavaScript/">
+        📚 Introducao ao Java (Jogo da velha).
+    </a>
+    </div>
+    <br>
+</a>
+<br>
 
   
   <br>
